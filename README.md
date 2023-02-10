@@ -4,6 +4,9 @@
 
 [midudev](https://www.twitch.tv/videos/1732102325)
 
+## Recursos
+[water.css](https://watercss.kognise.dev/)
+
 ## Enunciado 
 
 Crea una película para buscar películas:
